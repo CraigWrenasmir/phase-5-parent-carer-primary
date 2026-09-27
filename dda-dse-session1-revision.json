@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-28",
+  "scope": "DDA/DSE coverage in Session1. Only affected sessions rebuilt from updated read-only masters; unchanged narration reused.",
+  "workshop": "Parents and Carers - Primary",
+  "basis_commit": "294428acb88a25481146af7dfc003a654ea1e230",
+  "source_sessions": [
+    {
+      "session": 1,
+      "pptx": "PC Primary - Session 1 - Supporting your Autistic child to flourish.pptx",
+      "pptx_sha256": "d061ceed1cdf046715ce5bcff8ed06695c7bc4b3f5642a870005480ee4d8b5e3",
+      "pptx_bytes": 47179399,
+      "pdf": "PC Primary - Session 1 - Supporting your Autistic child to flourish.pdf",
+      "pdf_sha256": "4c29cf7639dd9349f830a89e30ba44d234ef55c8056619316f218334194e48fa",
+      "pdf_bytes": 2764212,
+      "source_slides": 19
+    },
+    {
+      "session": 5,
+      "pptx": "PC Primary - Session 5 - Partnership with the School.pptx",
+      "pptx_sha256": "bb02f2287ca89421be7bea9b570948d232ba086d2e619c69a66710a3e449d075",
+      "pptx_bytes": 9790580,
+      "pdf": "PC Primary - Session 5 - Partnership with the School.pdf",
+      "pdf_sha256": "2bd9884d5b1e81bb6899818d56b4446cec6ddb6e4aa9f1af38b9e9f00f873ea4",
+      "pdf_bytes": 3801188,
+      "source_slides": 13
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "duration_seconds": 904.72,
+      "source_slide_count": 19,
+      "full_sha256": "cd554c2d0b21647f9ecbc5437f28cf4e25654398ade735b7106b51a12008d182",
+      "web_sha256": "3ea54637950c596b55b9236fae194dbbb3727279d9c3eaedf107b09f61331fda"
+    },
+    {
+      "number": 5,
+      "duration_seconds": 735.2,
+      "source_slide_count": 13,
+      "full_sha256": "79a03d382e40eb6da77f583a9beb289366e2d336362b0649ddadc5f627d2559f",
+      "web_sha256": "bd40ff5d7c20d28d92322e2c06c76635a83f28e7bf376ead6da4482615a0e107"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 4819.88,
+    "sha256": "90aa009996c4148df7a8aa0c574344214aa820938d2419a702a2719703419812",
+    "unchanged_session_picture_data_preserved": true
+  },
+  "total_source_slides": 95,
+  "playback": "Same-site web media. Full-quality Release assets are download-only.",
+  "narration": "Steve Hogan; unaffected narration retained. New or changed narration uses verified source-aligned text.",
+  "notes": "Original earlier revision records are preserved as historical evidence."
+}

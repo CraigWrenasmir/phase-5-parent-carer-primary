@@ -40,8 +40,8 @@
       "category": "Slides",
       "url": "Original Assets/PC Primary - Session 1 - Supporting your Autistic child to flourish.pdf",
       "storage": "pages",
-      "bytes": 2754195,
-      "sha256": "07460aae96fae6e5ab6d1ff5807e34597001d5d9c100698f116f4d9ebe68f320"
+      "bytes": 2764212,
+      "sha256": "4c29cf7639dd9349f830a89e30ba44d234ef55c8056619316f218334194e48fa"
     },
     {
       "label": "PC Primary - Session 2 - Understanding Autistic Experience - Sensory and Thinking",
@@ -80,8 +80,8 @@
       "category": "Slides",
       "url": "Original Assets/PC Primary - Session 5 - Partnership with the School.pdf",
       "storage": "pages",
-      "bytes": 3805782,
-      "sha256": "d5a207283f061ba09f19a11bbcce7f3841c1dd8df4fc8b3305d00569b239fd65"
+      "bytes": 3801188,
+      "sha256": "2bd9884d5b1e81bb6899818d56b4446cec6ddb6e4aa9f1af38b9e9f00f873ea4"
     },
     {
       "label": "PC Primary - Session 6 - Full Circle",
@@ -110,8 +110,8 @@
       "category": "Editable slides",
       "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-primary/releases/download/workshop-v1/parent-primary--original--pc-primary---session-1---supporting-your-autistic-child-to-flourish.pptx",
       "storage": "release",
-      "bytes": 47175673,
-      "sha256": "eab399ff85f2638492d985c9f4df5508b48085b0c6483f8f3975ead1386909c3"
+      "bytes": 47179399,
+      "sha256": "d061ceed1cdf046715ce5bcff8ed06695c7bc4b3f5642a870005480ee4d8b5e3"
     },
     {
       "label": "PC Primary - Session 2 - Understanding Autistic Experience - Sensory and Thinking",
@@ -150,8 +150,8 @@
       "category": "Editable slides",
       "url": "Original Assets/PC Primary - Session 5 - Partnership with the School.pptx",
       "storage": "pages",
-      "bytes": 9794097,
-      "sha256": "f2345c3e349116c5bede0b32bdd7ed0bfd1bce99ef75c82b8bc5b510ba8f447a"
+      "bytes": 9790580,
+      "sha256": "bb02f2287ca89421be7bea9b570948d232ba086d2e619c69a66710a3e449d075"
     },
     {
       "label": "PC Primary - Session 6 - Full Circle",
@@ -170,8 +170,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-primary/releases/download/workshop-v1/parent-primary--session-01.mp4",
       "storage": "release",
-      "bytes": 88534552,
-      "sha256": "10f7d7ae89a79cac93fd4b236532f33731813a378a224f1fb0e69abf03ef0347"
+      "bytes": 95011620,
+      "sha256": "cd554c2d0b21647f9ecbc5437f28cf4e25654398ade735b7106b51a12008d182"
     },
     {
       "label": "Session 1 · web playback",
@@ -180,8 +180,8 @@
       "category": "Web playback",
       "url": "media/session-1.mp4",
       "storage": "pages",
-      "bytes": 26459705,
-      "sha256": "797adc126b74ab806095088cc29d43e68832ef37ebbf01160458c484131bcc1f"
+      "bytes": 28733284,
+      "sha256": "3ea54637950c596b55b9236fae194dbbb3727279d9c3eaedf107b09f61331fda"
     },
     {
       "label": "Session 1 · Supporting your Autistic child to flourish · structured script",
@@ -190,8 +190,8 @@
       "category": "Scripts",
       "url": "Scripts/session-1.json",
       "storage": "pages",
-      "bytes": 24032,
-      "sha256": "21329ace5383b31f9abeea12e6a7332a05ff9a0a090aa089f1a36bcf69055358"
+      "bytes": 31143,
+      "sha256": "88e19cbc66ed0ce7d8b01e6f19b7e0cb76d640b692133e8feda3de80cf663b0d"
     },
     {
       "label": "Session 1 · Supporting your Autistic child to flourish · readable script",
@@ -200,8 +200,8 @@
       "category": "Scripts",
       "url": "Scripts/session-1.md",
       "storage": "pages",
-      "bytes": 17136,
-      "sha256": "ef3c88696b69a610173a74cd588a354a1361a964bf2c64b42c31b9609ce4a5d3"
+      "bytes": 20198,
+      "sha256": "c2d4b2e33122a28f5cd66d8ecdce31cb07e1a150d8105c234fe71ed9f96cbe63"
     },
     {
       "label": "Session 1 · SRT",
@@ -210,8 +210,8 @@
       "category": "Captions",
       "url": "Captions/session-1.srt",
       "storage": "pages",
-      "bytes": 16952,
-      "sha256": "b705ae0291ee85487eb0cff634270bf0cd15243b156dab81ade5e82a7eb2fcb1"
+      "bytes": 19126,
+      "sha256": "0bb221a2d0ead83ee426995350dc57d39d14aa7db7303912381cacf3ac7eb4c2"
     },
     {
       "label": "Session 1 · VTT",
@@ -220,8 +220,8 @@
       "category": "Captions",
       "url": "Captions/session-1.vtt",
       "storage": "pages",
-      "bytes": 16960,
-      "sha256": "46850b2673ded9c6a2964e6a5302b25faa290dcf2c3df60c63ed0236e4c4eb1e"
+      "bytes": 19134,
+      "sha256": "8747bdcd5e57fdc04970bb5fa903826689e79d779174a297dbfc902a768da91e"
     },
     {
       "label": "Session 2 · Understanding Autistic Experience - Sensory and Thinking",
@@ -410,8 +410,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-primary/releases/download/workshop-v1/parent-primary--session-05.mp4",
       "storage": "release",
-      "bytes": 73979482,
-      "sha256": "911fbc2f02f7678246bdd8724f3f171ed9b1e38b37e88d23efbfc8dbe4711496"
+      "bytes": 70855069,
+      "sha256": "79a03d382e40eb6da77f583a9beb289366e2d336362b0649ddadc5f627d2559f"
     },
     {
       "label": "Session 5 · web playback",
@@ -420,8 +420,8 @@
       "category": "Web playback",
       "url": "media/session-5.mp4",
       "storage": "pages",
-      "bytes": 23059538,
-      "sha256": "973979559775190de3cda6a817e9ebfcb069b82c62060f424eb7d2536f773881"
+      "bytes": 21955514,
+      "sha256": "bd40ff5d7c20d28d92322e2c06c76635a83f28e7bf376ead6da4482615a0e107"
     },
     {
       "label": "Session 5 · Partnership with the School · structured script",
@@ -430,8 +430,8 @@
       "category": "Scripts",
       "url": "Scripts/session-5.json",
       "storage": "pages",
-      "bytes": 22208,
-      "sha256": "830aef4cf17df36e238f52257b63ef911709027ca3992d725e0c620d25030046"
+      "bytes": 25019,
+      "sha256": "2c17c37d9cf065bccb1eb8f4dc299ef3013a75b3352b15ddd3b95f4a909bec7b"
     },
     {
       "label": "Session 5 · Partnership with the School · readable script",
@@ -440,8 +440,8 @@
       "category": "Scripts",
       "url": "Scripts/session-5.md",
       "storage": "pages",
-      "bytes": 16442,
-      "sha256": "f671c60a53eb9bf2b9ddb2e490cb3f575bbb5b7b6a40b839bb38a3037db5f4ad"
+      "bytes": 16818,
+      "sha256": "0e2743b2576173d102c5e0a8c675996bd1684120b39e81812388c03ebeb7acec"
     },
     {
       "label": "Session 5 · SRT",
@@ -450,8 +450,8 @@
       "category": "Captions",
       "url": "Captions/session-5.srt",
       "storage": "pages",
-      "bytes": 15661,
-      "sha256": "4ba37313c6e05f5d915406bb26a970d029f9f307bd7d74a40a44cbdf5a9fdee6"
+      "bytes": 14746,
+      "sha256": "faa2e5df84ed0204a771dd250c2352886930bfef5e8a6a05e40f6b3a7d7a24e7"
     },
     {
       "label": "Session 5 · VTT",
@@ -460,8 +460,8 @@
       "category": "Captions",
       "url": "Captions/session-5.vtt",
       "storage": "pages",
-      "bytes": 15669,
-      "sha256": "054c67159308a93f938b2c59543670d516d1e6598bc0a7fd3e1a668b4bf548d8"
+      "bytes": 14754,
+      "sha256": "76bc22e953913d0f44d9a555ef50e6f86494d5e2e6803c324764e8b0be947d96"
     },
     {
       "label": "Session 6 · Full Circle",
@@ -530,8 +530,8 @@
       "category": "Videos",
       "url": "https://github.com/CraigWrenasmir/phase-5-parent-carer-primary/releases/download/workshop-v1/parent-primary--full-workshop.mp4",
       "storage": "release",
-      "bytes": 791470055,
-      "sha256": "2bea139c0dde5051f75b816ea064ea6e90b775d59b6138354873390f40f22ba4"
+      "bytes": 795007040,
+      "sha256": "90aa009996c4148df7a8aa0c574344214aa820938d2419a702a2719703419812"
     },
     {
       "label": "Complete workshop · SRT",
@@ -540,8 +540,8 @@
       "category": "Captions",
       "url": "Captions/full-workshop.srt",
       "storage": "pages",
-      "bytes": 94969,
-      "sha256": "09e59abddb53aaf42eb83c840f64cb72861a292fafdfc1ba0395a97dd7d06d76"
+      "bytes": 96245,
+      "sha256": "4ff80c0c2d608c168709825c8bbb5dbf706a970d3adbc979166d13fea1240adf"
     },
     {
       "label": "Complete workshop · VTT",
@@ -550,8 +550,8 @@
       "category": "Captions",
       "url": "Captions/full-workshop.vtt",
       "storage": "pages",
-      "bytes": 94977,
-      "sha256": "c9c577c73590bed9ba11d4115a2a734de0f930765681031416a7852b46f35bc3"
+      "bytes": 96253,
+      "sha256": "77066315c19a0ca9d1c0b9d64778358e7f9d1f37c938e96c7fb57972921918f1"
     },
     {
       "label": "Full facilitation script",
@@ -560,11 +560,12 @@
       "category": "Scripts",
       "url": "Scripts/Full Facilitation Script.md",
       "storage": "pages",
-      "bytes": 98270,
-      "sha256": "5c1a709cb89f619e9dc33a137d983c4e5a5d97938030aa07f41fc5c3c38b8245"
+      "bytes": 101708,
+      "sha256": "c3ba59e158dc5bd4f45d61b4198a116964fb1e8f51bee35d1778df03ab104920"
     }
   ],
   "source_original_count": 16,
   "basis_repository_commit": "f5d58e862139a23997792aa0976b62add04d2b71",
-  "playback": "Same-site web derivatives. Full-quality videos are Release downloads only."
+  "playback": "Same-site web derivatives. Full-quality videos are Release downloads only.",
+  "current_revision": "dda-dse-session1-revision.json"
 }
