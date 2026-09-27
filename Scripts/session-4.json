@@ -1,0 +1,171 @@
+{
+  "session": 4,
+  "title": "Home and Community",
+  "audience": "Parents and Carers - Primary",
+  "segments": [
+    {
+      "id": "s04_sl01_a",
+      "slide": 1,
+      "kind": "narration",
+      "spoken_text": "Welcome back. This morning was about understanding Autistic experience. Now we consider what that understanding can mean in everyday family life. You know your family best. Take the ideas that fit and leave those that don't.\n\nWe'll look at distress and recovery, familiar routines, interests, outings and the needs of the whole family. We are looking for a manageable next step, with your child's preferences and capacity at the centre.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 1; matching slide PDF page 1; PC Primary - Facilitator Guide PDF page 71; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "d6d9221a52379a07094d57f783f4c2b2eb0e792071881d23559db2a539a52271"
+    },
+    {
+      "id": "s04_sl02_a",
+      "slide": 2,
+      "kind": "narration",
+      "spoken_text": "What we can see and hear may be only the tip of the iceberg. Underneath can sit thoughts, feelings, values and needs, including belonging, predictability, security and self-expression.\n\nThink privately of a hard moment. What had happened beforehand? Perhaps there was an unexpected change, a noisy shop, or a request that was simply too big for that day. We may not know the answer straight away. Behaviour can give us information, and curiosity helps us look beyond the surface. This isn't about blaming a child or a parent. It is about understanding the conditions around a difficult moment.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 2; matching slide PDF page 2; PC Primary - Facilitator Guide PDF page 72; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "fed4e8aa39d308b861fb4cf9b7644e8202d6211b495eeaae434996da18ae813a"
+    },
+    {
+      "id": "s04_sl03_a",
+      "slide": 3,
+      "kind": "narration",
+      "spoken_text": "Overwhelm can turn inward or outward. A shutdown may look like becoming very still, freezing, withdrawing or being less able to speak and explain what is needed. A meltdown may involve crying, running away or a large outward expression of distress.\n\nThese are involuntary responses to overwhelm. Quietness can be easy to miss, especially when someone seems to be managing. The response alone may not tell us the full story. Keep the person's safety and need for reduced demands in view, and allow some space around these experiences. They can be hard for families to revisit.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 3; matching slide PDF page 3; PC Primary - Facilitator Guide PDF page 73; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "cfcb707d9a92c8be82f5439e5de70c719a14fde5d3665a31e828b411063a7104"
+    },
+    {
+      "id": "s04_sl04_a",
+      "slide": 4,
+      "kind": "narration",
+      "spoken_text": "Sometimes overload builds over a long period. Autistic burnout describes deep physical, mental and emotional exhaustion, with a reduction in capacity that may last. School Can't describes being unable to attend because school has become overwhelming through anxiety, fear or sensory load.\n\nThese terms help us consider what someone may have been carrying and what support or recovery they need. They don't let us diagnose an individual situation from a slide. If your family is living through this, it can be very hard. A conversation with appropriate health and school supports can help explore the individual picture. We'll look at working with school in Session Five.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 4; matching slide PDF page 4; PC Primary - Facilitator Guide PDF page 74; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "d5a4f2c58f105c47380e95cd51b93668f22fdd6197618d0e9fe0554de2f0d639"
+    },
+    {
+      "id": "s04_sl05_a",
+      "slide": 5,
+      "kind": "narration",
+      "spoken_text": "In the moment, try reducing input: fewer words, fewer questions and less noise. A quiet, safe space works best when you've talked about it together beforehand, while everyone is calm. Keep your approach matched to what you know helps your child.\n\nA distressed person may have very little capacity for explanation or problem-solving. The conversation about what happened can wait until they are ready. On page twelve, there's room to gather early signs, what helps in the moment and what helps recovery. You can add to that picture over time. These are options to consider, rather than a script every family has to follow.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 5; matching slide PDF page 5; PC Primary - Facilitator Guide PDF page 75; full speaker notes. PC Primary - Workbook PDF page 12. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "d2b55833a3e9f7413e698f86aaa3f95fdf7625daa2139343436a53c7844c7dd5"
+    },
+    {
+      "id": "s04_sl06_a",
+      "slide": 6,
+      "kind": "narration",
+      "spoken_text": "Co-regulation means a trusted adult helping a child settle through a steady, responsive presence. Sometimes that involves very few words. Self-regulation is what a person does to manage their own energy and feelings, and it develops with support over time.\n\nNobody manages to be calm every time. If you're exhausted or upset yourself, this can be hard. The point is to notice the support both of you need, and to make room for it where possible. We'll return to your own battery later in this session.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 6; matching slide PDF page 6; PC Primary - Facilitator Guide PDF page 76; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "b30ddd00ee6909d72a124eb3f4e29be8e8252d0d2c9c55a70414b2365f321cd2"
+    },
+    {
+      "id": "s04_sl07_a",
+      "slide": 7,
+      "kind": "narration",
+      "spoken_text": "Some families recognise an after-school crash. A child may appear to manage throughout school, then have very little left when they get home. What school sees and what you see can both be real parts of the day.\n\nA softer landing might mean food, quiet, movement or time with a screen or favourite activity, guided by what helps your child recover. Questions about the day, and homework, can wait. A familiar after-school routine can make that recovery predictable.\n\nYour child may talk later, perhaps at bedtime, or may not want to talk about school. Notice what helps them settle. What happens at home can give school useful information about the overall load.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 7; matching slide PDF page 7; PC Primary - Facilitator Guide PDF page 77; full speaker notes. PC Primary - Workbook PDF page 12. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "1c7582326cd6e29121cb012e90d8e3792a2445b012e33890d12f4e47dfe96775"
+    },
+    {
+      "id": "s04_sl08_a",
+      "slide": 8,
+      "kind": "narration",
+      "spoken_text": "Predictability can reduce uncertainty, and it doesn't require turning home into a classroom. Choose one or two routines that would help your family most. Perhaps mornings, after school or bedtime need a clearer sequence.\n\nA schedule on the fridge or a now-and-next card may help where it makes information easier to understand. If you give a five-minute warning, try to make it mean five minutes. When plans change, name the change, show it if helpful and give as much warning as you can. The routine should serve your family. If it creates more work and stress than it solves, it needs another look.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 8; matching slide PDF page 8; PC Primary - Facilitator Guide PDF page 78; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "0277fa3f51c76963f8863656390908db01c4aa007a0cce95f4bbc954d4a675c0"
+    },
+    {
+      "id": "s04_sl09_a",
+      "slide": 9,
+      "kind": "narration",
+      "spoken_text": "Interests can be an anchor for regulation, connection and joy. Time with a familiar interest may help restore energy. It can also offer a way into your child's world: listening while they explain, watching what they make or joining in when invited.\n\nAn interest is part of their experience and identity. Taking it away as a consequence can also take away a source of regulation. If that approach has been familiar at home, you can consider the function the interest serves and what another response might look like. Stay curious about what it gives your child.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 9; matching slide PDF page 9; PC Primary - Facilitator Guide PDF page 79; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "806f5d58c9ba048171a32c3296c5852efafecf0a4fe4ec9679b914aa53950505"
+    },
+    {
+      "id": "s04_sl10_a",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "Turn to Planning an outing on page twelve. Choose something familiar or coming up: a party, a shopping trip or a swimming lesson. Think about before, during and after.\n\nBeforehand, what can you preview? Where are we going, what will happen, how long might it be, and what if it is too much? During the outing, how will you notice energy and use an exit plan? Afterwards, what recovery time might be needed?\n\nShare one idea at your table if you wish, and add any useful ideas to your notes. If outings aren't workable for your family right now, you can choose a smaller situation or simply listen. Pause here for the activity.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Primary, Session 4, slide 10; matching slide PDF page 10; PC Primary - Facilitator Guide PDF page 80; full speaker notes. PC Primary - Workbook PDF page 12. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "a8d09513bd17fa5a0bd3437b495e5946a4b0e48e14d6f468aebf48da2ba6d497"
+    },
+    {
+      "id": "s04_sl10_b",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "Bring your attention back to the plan. Adjusting an outing, leaving early or deciding against it can all be sensible choices. The useful question is whether the plan fits your child and family. Keep the exit and recovery alongside the practical details, and check the plan with your child in a way they can access.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 10; matching slide PDF page 10; PC Primary - Facilitator Guide PDF page 80; full speaker notes. PC Primary - Workbook PDF page 12. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "805d821f4954b11459a93e6b448a2e8303681cd268ffa010083f76c7c37dce46"
+    },
+    {
+      "id": "s04_sl11_a",
+      "slide": 11,
+      "kind": "narration",
+      "spoken_text": "Family life includes everyone's needs. Where there are siblings, small regular moments of individual attention can matter. Fairness may mean each child getting what they need, even when that looks different. Words that fit their age can help siblings understand what is happening.\n\nFamilies are arranged in many different ways. There isn't a formula for getting the balance right, and you don't need to share private family difficulties here. Look for something sustainable in your own circumstances. The What works in our home page has space for ideas if this topic is useful to you.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 11; matching slide PDF page 11; PC Primary - Facilitator Guide PDF page 81; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "49c32176329c6187b9ddbb36168788071e3120a0c491c3a0d317a7c5ca32787c"
+    },
+    {
+      "id": "s04_sl12_a",
+      "slide": 12,
+      "kind": "narration",
+      "spoken_text": "Your own battery counts too. Helping another person settle is harder when you are running on empty. On page thirteen, take a moment with My own battery. What small thing helps you recharge? Who, if anyone, could help make this week a little lighter?\n\nIt might be a short walk, a few quiet minutes, a conversation or practical help with a task. If support is scarce, that is a real constraint, not something you have done wrong. Keep the idea realistic. Pause here to think or write.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Primary, Session 4, slide 12; matching slide PDF page 12; PC Primary - Facilitator Guide PDF page 82; full speaker notes. PC Primary - Workbook PDF page 13. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "761262b3074611befff5c7438dd3ad6690d8a88adb7b50407b45b38a65de2cc3"
+    },
+    {
+      "id": "s04_sl12_b",
+      "slide": 12,
+      "kind": "narration",
+      "spoken_text": "Keep whatever feels possible. Looking after your capacity is part of family planning. Sometimes the useful step is reducing one demand or asking for specific help. It says nothing about how much you love your child, and it doesn't have to become another task to succeed at.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 12; matching slide PDF page 12; PC Primary - Facilitator Guide PDF page 82; full speaker notes. PC Primary - Workbook PDF page 13. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "cdc8cc7a2797e1ea6a8dc5f9b92242d2df61ffa276331ca1c3c661a99e32bbeb"
+    },
+    {
+      "id": "s04_sl13_a",
+      "slide": 13,
+      "kind": "narration",
+      "spoken_text": "Families know a lot. Let's make room for that knowledge. On page thirteen, choose one thing that works in your home. It could relate to mornings, after school, outings, bedtime, siblings or your own energy.\n\nAt your table, each person can offer one idea, with the option to pass. Listen for something that might fit your family and write it down. We don't need to solve one family's whole situation. If you're watching alone, note what already works and one idea you might explore. Pause now for the sharing.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Primary, Session 4, slide 13; matching slide PDF page 13; PC Primary - Facilitator Guide PDF page 83; full speaker notes. PC Primary - Workbook PDF page 13. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "0005720afbaa9e317cd5b11a9d97b14fb824e1156be1f5c218844c1305afcf79"
+    },
+    {
+      "id": "s04_sl13_b",
+      "slide": 13,
+      "kind": "narration",
+      "spoken_text": "Choose one idea to keep, and leave room to adapt it. What works in another home may need to look different in yours. As we move into partnership with school, keep one observation from home in mind. It may be something school needs to understand about your child's day.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 4, slide 13; matching slide PDF page 13; PC Primary - Facilitator Guide PDF page 83; full speaker notes. PC Primary - Workbook PDF page 13. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "c6f3e8d793d1324a21fed16062473a5265170ca4dd61074094e636fcc9f2488e"
+    }
+  ],
+  "workshop": "Parents and Carers - Primary",
+  "recording_note": "AI facilitator simulation using Steve Hogan. Brief activity pauses allow time to extend reflection or discussion. Original films retain their original audio.",
+  "display_label": "Session 4",
+  "display_title": "Home and Community"
+}

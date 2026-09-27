@@ -1,0 +1,319 @@
+{
+  "session": 2,
+  "title": "Understanding Autistic Experience - Sensory and Thinking",
+  "audience": "Parents and Carers - Primary",
+  "segments": [
+    {
+      "id": "s02_sl01_a",
+      "slide": 1,
+      "kind": "narration",
+      "spoken_text": "Welcome to Session Two. Keep in mind the child you wrote about earlier. We're going to build a fuller picture of their experience, beginning with sensory processing, then thinking and internal signals. Each idea is something to explore alongside what you know. You may recognise some patterns and not others. By the end, you'll have some questions to take into everyday routines at home.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 1; matching slide PDF page 1; PC Primary - Facilitator Guide PDF page 26; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "d51d512e27e54a9a6115dd5a51975517ab47199548fe24635dffdde48c7f7f08"
+    },
+    {
+      "id": "s02_sl02_a",
+      "slide": 2,
+      "kind": "narration",
+      "spoken_text": "Before thinking, communication or connection, there is sensory experience. The world is already arriving through our senses. How it arrives can affect how comfortable we feel, what we notice and how much energy is available for everything else. Let's start there.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 2; matching slide PDF page 2; PC Primary - Facilitator Guide PDF page 27; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "e4f43c2f6c7572a8a88bc5087677496f1756bcd9a34142439885e2597791b020"
+    },
+    {
+      "id": "s02_sl03_a",
+      "slide": 3,
+      "kind": "narration",
+      "spoken_text": "What does sensory processing mean to you? Take a moment to put it into your own words. You might think about an ordinary experience, such as walking into a noisy room or putting on a warm jumper. Pause here if you'd like time to talk it through.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Primary, Session 2, slide 3; matching slide PDF page 3; PC Primary - Facilitator Guide PDF page 28; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "851fd233e5844292478804edf290b53fac85c9378755f8c7ac5fcb7be4dc2020"
+    },
+    {
+      "id": "s02_sl03_b",
+      "slide": 3,
+      "kind": "narration",
+      "spoken_text": "Sensory processing is the way the brain receives, processes and responds to information from the senses. We often notice the response first, but there is a whole process happening before that response becomes visible.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 3; matching slide PDF page 3; PC Primary - Facilitator Guide PDF page 28; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "587edd6abcb17434499c808ffdf5e0556bbcd87753c69e4cb2ed99bc407b9d31"
+    },
+    {
+      "id": "s02_sl04_a",
+      "slide": 4,
+      "kind": "narration",
+      "spoken_text": "Many of us learnt five senses: touch, vision, taste, hearing and smell. Here we include three more. Proprioception is our sense of the body in space, drawing on information from muscles and joints. It helps us know where our body is and how much force we're using.\n\nThe vestibular sense relates to balance and movement. Interoception is our sense of internal body signals, such as hunger, thirst or needing the toilet. We'll return to that later. These senses work together. In a busy routine, someone may be managing several kinds of sensory information at once, including input that others barely notice.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 4; matching slide PDF page 4; PC Primary - Facilitator Guide PDF page 29; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "61d13a988b6550735d40e60c76dae2bcefefd8063f989ad54aa48a49a04c136a"
+    },
+    {
+      "id": "s02_sl05_a",
+      "slide": 5,
+      "kind": "narration",
+      "spoken_text": "Think about taking off a jumper because you're getting hot. First, information arrives from the body. The brain processes it, including what similar experiences have felt like before. Then there is a response, such as taking the jumper off.\n\nThis process helps us understand our surroundings, keep track of our body and engage with what's happening. People process sensory information differently. A visible reaction is just one part of that process. Before judging the reaction, it helps to ask what information may have arrived, and how it might have felt.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 5; matching slide PDF page 5; PC Primary - Facilitator Guide PDF page 30; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "a8803701e8ac8383c8faf9760de2ba67707c2bb324bb27ae1c6a5fe5e27f84ce"
+    },
+    {
+      "id": "s02_sl06_a",
+      "slide": 6,
+      "kind": "narration",
+      "spoken_text": "We're going to watch two short clips. The first gives a sense of sensory overwhelm. The second makes space for sensory joy. Both belong in our understanding of Autistic experience.\n\nIf the sound or images feel too much, you're welcome to lower the volume, look away or pause. Listen to the account without assuming every Autistic person experiences things in the same way.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 6; matching slide PDF page 6; PC Primary - Facilitator Guide PDF page 31; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "0ff0201ee263d251a09afe5ef2b82afb2c5eae950f0d71a0ff6b70874d9c6577"
+    },
+    {
+      "id": "s02_sl06_video",
+      "slide": 6,
+      "kind": "video",
+      "media_path": "session-2-slide-06-media1.mp4",
+      "source_sha256": "2998fa573958e51f528331af479921fe0fffa0d4698a229d18c1cd41d808879c",
+      "source_note": "Parents and Carers - Primary, Session 2, slide 6; matching slide PDF page 6; PC Primary - Facilitator Guide PDF page 31; full speaker notes. Original embedded film ppt/media/media1.mp4, preserved in full with original audio. SHA-256 2998fa573958e51f528331af479921fe0fffa0d4698a229d18c1cd41d808879c.",
+      "post_pause_seconds": 2
+    },
+    {
+      "id": "s02_sl06_b",
+      "slide": 6,
+      "kind": "narration",
+      "spoken_text": "Let's leave a little space before we move on.",
+      "post_pause_seconds": 3,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 6; matching slide PDF page 6; PC Primary - Facilitator Guide PDF page 31; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "82551abafa50899f0aa0ac8db33a936324ef064992ea733f185f1b07f1c65300"
+    },
+    {
+      "id": "s02_sl07_a",
+      "slide": 7,
+      "kind": "narration",
+      "spoken_text": "Now let's hear about sensory joy. Notice the pleasure and richness that sensory experience can bring, alongside the overwhelm we've just considered.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 7; matching slide PDF page 7; PC Primary - Facilitator Guide PDF page 32; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "1c71b726893d1511d52469386372cddc4526754d4317b1841fbc059efb10c5b5"
+    },
+    {
+      "id": "s02_sl07_video",
+      "slide": 7,
+      "kind": "video",
+      "media_path": "session-2-slide-07-media2.mp4",
+      "source_sha256": "33f60b17daaec32a6f39d775537ff4aa9bac3e84768dc869e431491cc74e6a08",
+      "source_note": "Parents and Carers - Primary, Session 2, slide 7; matching slide PDF page 7; PC Primary - Facilitator Guide PDF page 32; full speaker notes. Original embedded film ppt/media/media2.mp4, preserved in full with original audio. SHA-256 33f60b17daaec32a6f39d775537ff4aa9bac3e84768dc869e431491cc74e6a08.",
+      "post_pause_seconds": 2
+    },
+    {
+      "id": "s02_sl07_b",
+      "slide": 7,
+      "kind": "narration",
+      "spoken_text": "Sensory experience includes comfort and enjoyment too. A sound, movement or texture can be deeply satisfying. Keep both sides in the picture when you think about your child: what asks a lot of their senses, and what feels good or helps them settle.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 7; matching slide PDF page 7; PC Primary - Facilitator Guide PDF page 32; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "68465e223d5790de7613df37ad645d7014e5df3434469612a3e10d3540a61f4e"
+    },
+    {
+      "id": "s02_sl08_a",
+      "slide": 8,
+      "kind": "narration",
+      "spoken_text": "This framework from Winnie Dunn describes four patterns of sensory response. Registration means some input may not be picked up readily. Sensory seeking means actively looking for more input, perhaps through movement, touch or sound. Sensory sensitivity means noticing input strongly, even if the person doesn't act to change it. Sensory avoiding means actively reducing input, such as covering ears or choosing a quieter place.\n\nA person may seek one kind of input and avoid another. The pattern can also shift with the setting and the load already being carried. Some families will have encountered a sensory profile through an occupational therapist. Use this as a way to notice patterns and ask questions. It doesn't give us a complete description of a child.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 8; matching slide PDF page 8; PC Primary - Facilitator Guide PDF page 33; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "46cc31ec12db1debbb6416956d8febd115c1f4c8998ec7cf2904210cb2febdbe"
+    },
+    {
+      "id": "s02_sl09_a",
+      "slide": 9,
+      "kind": "narration",
+      "spoken_text": "Stimming means repetitive movement or sound, such as rocking, flapping, spinning, humming or tapping. It can help a child settle, focus, cope or express joy. You may recognise small versions in yourself, such as jiggling your leg.\n\nNotice what stimming seems to do for your child. Make room for it at home, and help others understand its purpose. If something causes harm, the question becomes how to meet the same need more safely. Simply taking it away can remove something that was helping. Some children hold their stims back at school. Home can offer room for authentic expression without that extra effort.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 9; matching slide PDF page 9; PC Primary - Facilitator Guide PDF page 34; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "4a39ad58c0f0df09c65f6cd673bcce08d8a5e398f1fd80784aac313168587715"
+    },
+    {
+      "id": "s02_sl10_a",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "Turn to the sensory activity on page six. Choose one familiar home routine: getting ready for school, a meal or bath time. What sensory demands are involved? Think about sound, light, touch, movement and the less visible body signals too.\n\nWhat small change could make it easier or offer more choice? And what would you like to find out from your child? Write the routine, the demand and a possible support. Talk through your ideas with a partner or table if you wish. Pause here for the activity.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Primary, Session 2, slide 10; matching slide PDF page 10; PC Primary - Facilitator Guide PDF page 35; full speaker notes. PC Primary - Workbook PDF page 6. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "e30b0c3f194686cb777dacca3a09a4f07f536e4face1e01f3d01bf578fa0808f"
+    },
+    {
+      "id": "s02_sl10_b",
+      "slide": 10,
+      "kind": "narration",
+      "spoken_text": "Look back at your notes. Keep what you observed separate from what you think it might mean. A loud bathroom or an uncomfortable texture gives us a useful question to explore. Your child's own communication will help us understand whether the change actually helps. Start with one workable adjustment to the routine.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 10; matching slide PDF page 10; PC Primary - Facilitator Guide PDF page 35; full speaker notes. PC Primary - Workbook PDF page 6. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "702d39025dba7c1f8b83114c2c82ccf41edb1a44b535466549ec1a40f50a04e6"
+    },
+    {
+      "id": "s02_sl11_a",
+      "slide": 11,
+      "kind": "narration",
+      "spoken_text": "Now we move from how the world arrives to how the mind takes it in and where attention goes. The next ideas describe patterns some Autistic people recognise. Keep checking them against the person you know, rather than assuming every pattern applies.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 11; matching slide PDF page 11; PC Primary - Facilitator Guide PDF page 36; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "6ec836916b1c741a19576823ae179568e0bf3de7d2be6f159e72d17b017a6659"
+    },
+    {
+      "id": "s02_sl12_a",
+      "slide": 12,
+      "kind": "narration",
+      "spoken_text": "The detail-first idea describes building understanding from individual pieces towards a whole picture. Someone may notice a small change, an inconsistency or a background detail before the overall situation becomes clear.\n\nThis can be connected with strengths such as pattern recognition, deep memory, logical precision, honesty and close attention. Think about what your child knows in detail, or what they notice that other people miss. These strengths are present in everyday life.\n\nTaking in a lot of detail can also take effort. A task may be hard to begin if the larger picture or first step is unclear. The same way of processing can bring depth and also create demands. We can notice both without turning this into a checklist that every child must fit.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 12; matching slide PDF page 12; PC Primary - Facilitator Guide PDF page 37; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "1a7b8e785ba19c3ee93a218ac467782bf2d1f73c2c4ec37c54551103fa81d289"
+    },
+    {
+      "id": "s02_sl13_a",
+      "slide": 13,
+      "kind": "narration",
+      "spoken_text": "Think about your own attention for a moment. Does it move between several things, or become deeply absorbed in one? The torch and floodlight image gives us two ways to picture that. Monotropism describes attention going deeply into fewer things at a time. Autistic people help develop this way of understanding attention.\n\nDeep interests can offer learning, memory and joy. When your child is absorbed in building, reading about space or listening to a favourite song, their attention may be deeply invested. Asking them to stop for dinner can involve real effort. Warning, time and a helpful transition can make a difference. That absorbed state, sometimes called flow, is also something worth protecting.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 13; matching slide PDF page 13; PC Primary - Facilitator Guide PDF page 38; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "23f1e293506f39f783a001446e6f744fa23e837898289570c5a0a15b26da9f2b"
+    },
+    {
+      "id": "s02_sl14_a",
+      "slide": 14,
+      "kind": "narration",
+      "spoken_text": "Executive functioning is a name for processes we use to organise and carry out everyday tasks. The slide includes planning, organisation, time management and working memory. It also includes thinking about our thinking, managing emotions, flexibility, attention, getting started and persisting.\n\nWe use different combinations of these throughout the day. When a task is hard, identifying the particular demand can help us find useful support. Let's look at getting started and switching focus, because they ask different things of a person.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 14; matching slide PDF page 14; PC Primary - Facilitator Guide PDF page 39; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "9b4ab975120a2608c271b0c2a937a50f2a6f7ffab929e988c4294d79bc3a783c"
+    },
+    {
+      "id": "s02_sl15_a",
+      "slide": 15,
+      "kind": "narration",
+      "spoken_text": "Getting ready for school can sound like one instruction, but it contains many steps. Where do I start? What comes next? What needs to be ready at the end? If the whole task isn't clear, the first step may be difficult to find.\n\nA visible sequence or showing the first step can help make the task more understandable. Before adding another reminder, ask which part needs to become clearer.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 15; matching slide PDF page 15; PC Primary - Facilitator Guide PDF page 40; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "6c47be96083ea885181b0c22068eed2249fd2fc958cb981313fd50139d5bcd01"
+    },
+    {
+      "id": "s02_sl16_a",
+      "slide": 16,
+      "kind": "narration",
+      "spoken_text": "Switching focus is a different demand. A child deeply absorbed in play may need time to disengage before they can take up the next activity. An unexpected interruption can feel much bigger than it looks from the outside.\n\nThink back to the torch beam. A warning that means what it says, time to finish a small part, and a clear sense of what comes next can support a transition. Check what works for your child.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 16; matching slide PDF page 16; PC Primary - Facilitator Guide PDF page 41; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "5d50a060f0b2e1480b91a4fc995180b3d40acc5b6faa757202fc6a47c8eda96c"
+    },
+    {
+      "id": "s02_sl17_a",
+      "slide": 17,
+      "kind": "narration",
+      "spoken_text": "This slide is reserved for a young person's account of deep focus and transitions. The supplied workshop materials still show a video placeholder here, so there isn't a film to play in this walkthrough. We'll move into the reflection using the ideas we've just explored, while keeping that space for a first-person account when the clip is available.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 17; matching slide PDF page 17; PC Primary - Facilitator Guide PDF page 42; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses. SOURCE GAP: Autistic thinking film not supplied. Placeholder acknowledged; no replacement account invented.",
+      "spoken_text_sha256": "742f7d3bdac194ea276f257af2eb95a9f3dc0ca4cebbabcee841ab2556a36e2e"
+    },
+    {
+      "id": "s02_sl18_a",
+      "slide": 18,
+      "kind": "narration",
+      "spoken_text": "Turn to page seven. What are your child's deep interests? What do you notice when they're fully engaged? When is it difficult to get started or shift attention? Think of a time they were completely absorbed at home. What were they doing?\n\nChoose the questions that feel useful. Begin with a real moment, then talk with your table or write privately. Keep enjoyment and strengths alongside the difficult transitions. Pause now for your discussion.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Primary, Session 2, slide 18; matching slide PDF page 18; PC Primary - Facilitator Guide PDF page 43; full speaker notes. PC Primary - Workbook PDF page 7. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "b1114e592c67514fc014677ff00901ddb6a65ee80d687dee41bbc7204903b28c"
+    },
+    {
+      "id": "s02_sl18_b",
+      "slide": 18,
+      "kind": "narration",
+      "spoken_text": "As you return, notice the difference between getting started, staying absorbed and switching away. Each may call for a different kind of support. Naming what you see gives you something specific to explore with your child. Keep the interest itself in the picture as a source of enjoyment.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 18; matching slide PDF page 18; PC Primary - Facilitator Guide PDF page 43; full speaker notes. PC Primary - Workbook PDF page 7. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "0374905ac4c1f45c1feef4c11db382a86b865c06aec786780d271b0a673bc59b"
+    },
+    {
+      "id": "s02_sl19_a",
+      "slide": 19,
+      "kind": "narration",
+      "spoken_text": "Let's return to interoception, the body's inside sense that we named earlier. Internal signals add another part to the picture. Some experiences are hard to notice or describe even when they strongly affect how a person feels.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 19; matching slide PDF page 19; PC Primary - Facilitator Guide PDF page 44; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "cc5f5ad5dcc73e41335adc90f50b63190cb0e1e88ff5ac6050cc94f6a5c76e0a"
+    },
+    {
+      "id": "s02_sl20_a",
+      "slide": 20,
+      "kind": "narration",
+      "spoken_text": "Interoception concerns signals from inside the body: temperature, hunger, thirst or needing the bathroom. Alexithymia describes difficulty identifying and describing emotions and feelings. They're related ideas, but noticing a body signal and knowing how to describe an emotion are different tasks.\n\nA child might notice hunger only when it becomes intense, or find it hard to tell whether a fluttery feeling before a party is excitement or worry. These examples give us questions to explore, rather than a diagnosis. We can offer time and ways to communicate what is happening inside, without insisting on an immediate answer.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 20; matching slide PDF page 20; PC Primary - Facilitator Guide PDF page 45; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "b18be185954f3753ab925223df55577d177f095361f592d503ebb3b96ad342ac"
+    },
+    {
+      "id": "s02_sl21_a",
+      "slide": 21,
+      "kind": "narration",
+      "spoken_text": "Sometimes a build-up is happening inside even when the surface doesn't show it. Early signs may be subtle, individual or simply unavailable to us. This is an invitation to learn together, never a reason to blame yourself for not noticing sooner.\n\nOver time, your child and the people who know them may build a shared picture of what helps. Describing changes clearly can help family members and school respond more consistently. The picture should stay open to what your child communicates and to things we haven't understood yet.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 21; matching slide PDF page 21; PC Primary - Facilitator Guide PDF page 46; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "3419a2cae3f6f029ae9ac6f614ae0d0330ea9a24832aee6c7e0f179a28bf3e4f"
+    },
+    {
+      "id": "s02_sl22_a",
+      "slide": 22,
+      "kind": "narration",
+      "spoken_text": "Stay on page seven for Reading the signs. What changes do you notice before your child becomes overwhelmed? Describe what you can see or hear, as specifically as you can. What would be useful for another carer or school to know?\n\nYou might also write what you aren't sure about yet. Take a little private thinking time, then share only if you wish. Pause the video while you make those notes.",
+      "post_pause_seconds": 8,
+      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
+      "source_note": "Parents and Carers - Primary, Session 2, slide 22; matching slide PDF page 22; PC Primary - Facilitator Guide PDF page 47; full speaker notes. PC Primary - Workbook PDF page 7. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "85ab7f0dd6f66e3992cba12d5a082a8b32e44719af5b2fc6b1478061d4555bfa"
+    },
+    {
+      "id": "s02_sl22_b",
+      "slide": 22,
+      "kind": "narration",
+      "spoken_text": "Keep that description available for our work on school partnership. A useful note helps someone recognise a change and respond with support. It doesn't need to explain everything, and it can change as you learn more. We've now considered sensory experience, thinking and internal signals as connected parts of the same person's day.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 22; matching slide PDF page 22; PC Primary - Facilitator Guide PDF page 47; full speaker notes. PC Primary - Workbook PDF page 7. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "f6e7791db9ad0e4468bb1af4d37c65a83374997c569373c37331647b588e1288"
+    },
+    {
+      "id": "s02_sl23_a",
+      "slide": 23,
+      "kind": "narration",
+      "spoken_text": "That's our second session. After morning tea, we'll continue with communication, connection and managing daily capacity. Take a break now if you need one. When you return, bring the same child to mind, along with the strengths and questions you've been gathering.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Parents and Carers - Primary, Session 2, slide 23; matching slide PDF page 23; PC Primary - Facilitator Guide PDF page 48; full speaker notes. Authored audience-facing delivery, with optional participation and no invented participant responses.",
+      "spoken_text_sha256": "69062a6957d80136780f004be54a57a98d6b4d13fc293eeec3221bbeecf980ef"
+    }
+  ],
+  "workshop": "Parents and Carers - Primary",
+  "recording_note": "AI facilitator simulation using Steve Hogan. Brief activity pauses allow time to extend reflection or discussion. Original films retain their original audio.",
+  "display_label": "Session 2",
+  "display_title": "Understanding Autistic Experience - Sensory and Thinking"
+}
